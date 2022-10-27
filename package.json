@@ -1,0 +1,12 @@
+{
+  "name": "9ZeY9kkmyVLuU252siZ1HcBXkhvwrzKkAAK4YJszvqWR6z0F7S",
+  "theme": "syntax",
+  "version": "1.0.4",
+  "description": "ผลหวยหุ้นต่างประเทศวันนี้ ตรวจผลการออกรางวัล ตาม ผลหวยหุ้นต่างประเทศวันนี้ Huay หวยออนไลน์ อันดับหนึ่ง หวยหุ้นไทย งวดประจำวันที่ 10 พฤษภาคม 2566ผลการออกราง",
+  "repository": "https://github.com/gullibles-02/underdoor-11",
+  "keywords": ["ผลหวยหุ้นต่างประเทศวันนี้","ผลหวยหุ้นต่างประเทศวันนี้ Huay"],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
