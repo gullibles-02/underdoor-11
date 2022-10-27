@@ -1,10 +1,13 @@
 {
-  "name": "Wh65VrrlTQ1fa3xqlRBrNqBFckrCUyYejctqWisIzPGuo2L6Hc",
+  "name": "หวยหุ้นอินเดียย้อนหลัง เล่นที่ไหน - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.36",
   "description": "หวยหุ้นอินเดียย้อนหลัง การดูผลรางวัลของหวยหุ้นนิเคอิ ด้วย หวยหุ้นอินเดียย้อนหลัง ที่ Thailotto เว็บหวยออนไลน์ อันดับหนึ่ง จริงๆ แล้วไม่ต่างอะไรกับการดูผลหว",
   "repository": "https://github.com/gullibles-02/underdoor-11",
-  "keywords": ["หวยหุ้นอินเดียย้อนหลัง","หวยหุ้นอินเดียย้อนหลัง Thailotto"],
+  "keywords": [
+    "หวยหุ้นอินเดียย้อนหลัง",
+    "หวยหุ้นอินเดียย้อนหลัง Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
