@@ -1,10 +1,22 @@
 {
-  "name": "ZlCFwQpsxsqeDlHCs146BYNdTPIFK9S5EiE5YyU9GZig18ZSMx",
+  "name": "ตรวจหวย 1 พฤษภาคม 2565 ไทยรัฐ ดูยังไง - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.21",
   "description": "ตรวจหวย 1 พฤษภาคม 2565 ไทยรัฐ ปาณาติปาตา ก่อน ตรวจหวย 1 พฤษภาคม 2565 ไทยรัฐ ที่ Thailotto เว็บหวยออนไลน์ อันดับหนึ่ง เวระมะณี สิกขาปะทัง สะมาทิยามิอะทินนาท",
   "repository": "https://github.com/gullibles-02/underdoor-11",
-  "keywords": ["ตรวจหวย 1 พฤษภาคม 2565 ไทยรัฐ","ตรวจหวย","1","พฤษภาคม","2565","ไทยรัฐ","ตรวจหวย Thailotto","1 Thailotto","พฤษภาคม Thailotto","2565 Thailotto","ไทยรัฐ Thailotto"],
+  "keywords": [
+    "ตรวจหวย 1 พฤษภาคม 2565 ไทยรัฐ",
+    "ตรวจหวย",
+    "1",
+    "พฤษภาคม",
+    "2565",
+    "ไทยรัฐ",
+    "ตรวจหวย Thailotto",
+    "1 Thailotto",
+    "พฤษภาคม Thailotto",
+    "2565 Thailotto",
+    "ไทยรัฐ Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
