@@ -1,13 +1,10 @@
 {
-  "name": "สูตรบาคาร่า ทำไมถึงนิยม - เว็บใหม่ happyluke 2023 ล่าสุด",
+  "name": "FJojNBB1xaEiiV47g9rL10q6LEYpJcwr631JKzLdlrJ6IU4GaW",
   "theme": "syntax",
   "version": "1.0.51",
   "description": "สูตรบาคาร่า สล็อตเว็บตรง เมื่อ สูตรบาคาร่า ที่ Happyluke เว็บพนัน มีเกมพนันทุกชนิด สมัครรับเครดิตฟรีทันที สูตรบาคาร่า เป็นเหมือนเงินรางวัลโบนัสฟรีที่แจกสำห",
   "repository": "https://github.com/gullibles-02/underdoor-11",
-  "keywords": [
-    "สูตรบาคาร่า",
-    "สูตรบาคาร่า Happyluke"
-  ],
+  "keywords": ["สูตรบาคาร่า","สูตรบาคาร่า Happyluke"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
