@@ -1,13 +1,10 @@
 {
-  "name": "ลาวกาชาดย้อนหลัง ดูยังไง - เว็บใหม่ 999lucky 2023 ล่าสุด",
+  "name": "iqy9zgy3NjP8aP5ehFJ1ChkCrnA0DRR9Q6UvjxN3RGgDvvHzwO",
   "theme": "syntax",
   "version": "1.0.11",
   "description": "ลาวกาชาดย้อนหลัง เลขเด็ด เนื่องจาก ลาวกาชาดย้อนหลัง ที่ 999Lucky เว็บหวยออนไลน์ อันดับหนึ่ง ในงวดประจำวันพฤหัสบดีที่ 1 กรกฎาคม 2566 เว็บไซต์หวยไทยขอนำเสนอ ",
   "repository": "https://github.com/gullibles-02/underdoor-11",
-  "keywords": [
-    "ลาวกาชาดย้อนหลัง",
-    "ลาวกาชาดย้อนหลัง 999Lucky"
-  ],
+  "keywords": ["ลาวกาชาดย้อนหลัง","ลาวกาชาดย้อนหลัง 999Lucky"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
