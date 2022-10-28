@@ -1,10 +1,22 @@
 {
-  "name": "JjpvU5K1tRyDIQKeWgxXsomz2Hjb1Txto6tZNQAhK2QpZwyg0y",
+  "name": "วิเคราะห์หวยหุ้น ฮั่ ง เส็ง วันนี้ ดูที่ไหน - เว็บใหม่ huaydee 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.57",
   "description": "วิเคราะห์หวยหุ้น ฮั่ ง เส็ง วันนี้ หวยฮานอย บน วิเคราะห์หวยหุ้น ฮั่ ง เส็ง วันนี้ ที่ Huaydee เว็บหวยออนไลน์ อันดับหนึ่ง วิเคราะห์หวยหุ้น ฮั่ ง เส็ง วันนี้",
   "repository": "https://github.com/gullibles-02/underdoor-11",
-  "keywords": ["วิเคราะห์หวยหุ้น ฮั่ ง เส็ง วันนี้","วิเคราะห์หวยหุ้น","ฮั่","ง","เส็ง","วันนี้","วิเคราะห์หวยหุ้น Huaydee","ฮั่ Huaydee","ง Huaydee","เส็ง Huaydee","วันนี้ Huaydee"],
+  "keywords": [
+    "วิเคราะห์หวยหุ้น ฮั่ ง เส็ง วันนี้",
+    "วิเคราะห์หวยหุ้น",
+    "ฮั่",
+    "ง",
+    "เส็ง",
+    "วันนี้",
+    "วิเคราะห์หวยหุ้น Huaydee",
+    "ฮั่ Huaydee",
+    "ง Huaydee",
+    "เส็ง Huaydee",
+    "วันนี้ Huaydee"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
