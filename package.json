@@ -1,10 +1,20 @@
 {
-  "name": "QjiBAnWuTCM2CTcbYJaMCjA3RgLmsiS7cRrXSqIqGc1hSwH0Tj",
+  "name": "ตรวจลอตเตอรี่ 1 กันยายน 2565 เล่นที่ไหน - เว็บใหม่ masurebet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.73",
   "description": "ตรวจลอตเตอรี่ 1 กันยายน 2565 คลิกเล่นไฮโลคลิกเล่นไฮโล สู่ ตรวจลอตเตอรี่ 1 กันยายน 2565 ที่ Masurebet เว็บหวยออนไลน์ อันดับหนึ่ง",
   "repository": "https://github.com/gullibles-02/underdoor-11",
-  "keywords": ["ตรวจลอตเตอรี่ 1 กันยายน 2565","ตรวจลอตเตอรี่","1","กันยายน","2565","ตรวจลอตเตอรี่ Masurebet","1 Masurebet","กันยายน Masurebet","2565 Masurebet"],
+  "keywords": [
+    "ตรวจลอตเตอรี่ 1 กันยายน 2565",
+    "ตรวจลอตเตอรี่",
+    "1",
+    "กันยายน",
+    "2565",
+    "ตรวจลอตเตอรี่ Masurebet",
+    "1 Masurebet",
+    "กันยายน Masurebet",
+    "2565 Masurebet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
